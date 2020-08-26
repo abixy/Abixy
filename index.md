@@ -1,6 +1,6 @@
 ## Welcome to Abixy
 
-Have a lovely day!
+Greetings from Abixy.com.  Have a lovely day!
 
 <!---
 
