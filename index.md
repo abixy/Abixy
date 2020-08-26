@@ -1,4 +1,4 @@
-## Welcome to Abixy Wings
+## Welcome to Abixy
 
 Have a lovely day!
 
